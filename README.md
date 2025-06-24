@@ -9,6 +9,15 @@
 />
 </a>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/725281121202963061/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+
 <!--
 **Jiho8/Jiho8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
