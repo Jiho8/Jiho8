@@ -3,23 +3,6 @@
 안녕하세요,
 프론트엔드 개발자 천지호 입니다.
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jiho8&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/Jiho8"
-    width="600"
-    height="300"
-  />
-</a>
-
-<a href="https://www.gitanimals.org/">
-  <img
-    src="https://render.gitanimals.org/guilds/725281121202963061/draw"
-    width="600"
-    height="300"
-    alt="gitanimals"
-  />
-</a>
-
 ## 🛠 Tech Stacks
 
 ### 1. Front-End
@@ -68,3 +51,22 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
 </p>
+
+<hr />
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jiho8&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/Jiho8"
+    width="600"
+    height="300"
+  />
+</a>
+
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/725281121202963061/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
+</a>
